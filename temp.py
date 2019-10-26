@@ -1,5 +1,5 @@
 #Luca Rhotert 1 semster
-#die teile am besten im jupiternote bock alle einzel runnen
+#die teile in jupiternote bock alle einze
 
 ###Imports### 1
 import timeit
