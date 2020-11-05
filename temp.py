@@ -1,5 +1,3 @@
-#Luca Rhotert 1 semster
-#die teile in jupiternote bock alle einze
 
 ###Imports### 1
 import timeit
@@ -13,7 +11,7 @@ from keras.optimizers import Adam
 import keras
 #Using TensorFlow backend.
 
-###Aufbau des model### 2
+###Aufbau des Models### 2
 class DQNAgent:
     def __init__(self, state_size, action_size):
         self.state_size = state_size
